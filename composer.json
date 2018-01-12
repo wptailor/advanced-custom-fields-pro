@@ -1,0 +1,12 @@
+{
+    "name": "wptailor/advanced-custom-fields-pro",
+    "description": "Customise WordPress with powerful, professional and intuitive fields.",
+    "license": "GPL-2.0+",
+    "type": "wordpress-plugin",
+    "authors": [
+      {
+        "name": "WPTailor",
+        "email": "info@wptailor.com"
+      }
+    ]
+}
